@@ -1,6 +1,6 @@
 # AI-Based Passive Physical Event Decoder Dashboard
 
-**Final-Year Project: AI-Based Decoding of Nonlinear Physical Event Signatures Using a Passive Multistate Encoder**
+**Final-Year Project: AI-Decoded-Passive-Encoder-Multi-Exposure-fingerprint-device**
 
 ## Project Overview
 
